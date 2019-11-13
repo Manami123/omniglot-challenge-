@@ -1,4 +1,4 @@
-# omniglot challenge
+# Omniglot Challenge
 This repository contains the python coded jupyter notebooks and data sets of omniglot challenge question along with a readme.
 
 ## The problem has been inspired by [Fellowship.AI, demo challenge](https://fellowship.ai/challenge/)
